@@ -1,0 +1,1 @@
+Segmentation and histogram extraction completed!

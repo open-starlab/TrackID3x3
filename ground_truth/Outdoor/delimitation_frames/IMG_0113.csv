@@ -1,0 +1,22 @@
+116 (Game start),"1: 10, 2: 12, 3: 10, 4: 4, 6: 6, 9: 9","Offense: 3, 6, 9; Defense: 1, 2, 4"
+1628 (Out of bounds),,
+1832 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+2447 (Out of bounds),,
+2747 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+3589 (Timer stop),,
+3915 (Resume),,"Offense: 3, 6, 9; Defense: 1, 2, 4"
+4079 (Out of bounds),,
+4275 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+4544 (Foul),,
+4730 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+5394 (Out of bounds),,
+5600 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+5977 (Violation),,
+6180 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+6328 (FG failure),,
+6595 (Just before the referee releases the ball),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+6839 (Out of bounds),,
+7070 (Resume),,"Offense: 1, 2, 4; Defense: 3, 6, 9"
+10986 (Foul),,
+11635 (Just before the referee releases the ball),,"Offense: 3, 6, 9; Defense: 1, 2, 4"
+12507 (Game end),,

@@ -1,0 +1,3 @@
+/home/k_yamada/.pyenv/versions/3.10.9/lib/python3.10/site-packages/torch/functional.py:534: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3595.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+slurmstepd: error: *** JOB 6626603 ON tesla CANCELLED AT 2025-02-21T15:54:40 ***
