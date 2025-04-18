@@ -21,7 +21,11 @@ This task is the Game State Reconstruction task for fixed camera video.
 
 If you use this project or dataset, please cite the following paper:
 
-> **Kazuhiro Yamada, Li Yin, Qingrui Hu, Ning Ding, Shunsuke Iwashita, Jun Ichikawa, Kiwamu Kotani, Calvin Yeung, Keisuke Fujii**  
-> [**TrackID3x3: A Dataset for 3x3 Basketball Player Tracking and Identification**](https://arxiv.org/abs/2503.18282)  
-> arXiv:2503.18282, 2025.
+@article{yamada2025trackid3x3,
+  title={TrackID3x3: A Dataset for 3x3 Basketball Player Tracking and Identification},
+  author={Yamada, Kazuhiro and Yin, Li and Hu, Qingrui and Ding, Ning and Iwashita, Shunsuke and Ichikawa, Jun and Kotani, Kiwamu and Yeung, Calvin and Fujii, Keisuke},
+  journal={arXiv preprint arXiv:2503.18282},
+  year={2025}
+}
+
 
