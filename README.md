@@ -17,4 +17,11 @@ This task is the Game State Reconstruction task for fixed camera video.
 ![Outdoor](videos/gif/Outdoor_minimap_drawn.gif)
 <!-- GIF EMBEDS END -->
 
-BibTeX: [arXiv BibTeX](https://arxiv.org/bibtex/2503.18282)
+## Citation
+
+If you use this project or dataset, please cite the following paper:
+
+> **Kazuhiro Yamada, Li Yin, Qingrui Hu, Ning Ding, Shunsuke Iwashita, Jun Ichikawa, Kiwamu Kotani, Calvin Yeung, Keisuke Fujii**  
+> [**TrackID3x3: A Dataset for 3x3 Basketball Player Tracking and Identification**](https://arxiv.org/abs/2503.18282)  
+> arXiv:2503.18282, 2025.
+
