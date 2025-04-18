@@ -14,3 +14,4 @@ BoT-SORT_outputs/Indoor/20*/
 BoT-SORT_outputs/Outdoor/20*/
 BoT-SORT/YOLOX_outputs/yolox_x_mix_det/track_vis/*
 ground_truth/Drone/pose/*.png
+script/Drone/annotated_video_frames_951-1000.mp4
