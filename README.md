@@ -1,6 +1,9 @@
 # TrackID3x3
+> ⚠️ **Note:** This research project is a work in progress. Both this repository and the corresponding [arXiv paper](https://arxiv.org/abs/2503.18282) are subject to updates and improvements over time.
 
-The dataset consists of three subsets: Indoor captured by indoor fixed cameras, Outdoor captured by outdoor fixed cameras, and Drone captured by outdoor drone cameras.
+## TrackID3x3 dataset 
+
+The dataset consists of three subsets: Indoor, captured by indoor fixed cameras; Outdoor, captured by outdoor fixed cameras; and Drone, captured by outdoor drone cameras.
 The video has bounding boxes of on-court players for all frames and 10 posture keypoints of each player for some frames only.
 
 <!-- GIF EMBEDS START -->
@@ -9,15 +12,15 @@ The video has bounding boxes of on-court players for all frames and 10 posture k
 ![Drone](videos/gif/Drone.gif)
 <!-- GIF EMBEDS END -->
 
-## TrackID task
-This task is the Game State Reconstruction task for fixed camera video.
+## Track-ID task
+This task is the Game State Reconstruction task for fixed camera videos, manually performing the subtask of court localization. 
 
 <!-- GIF EMBEDS START -->
 ![Indoor_minimap_drawn](videos/gif/Indoor_minimap_drawn.gif)
 ![Outdoor](videos/gif/Outdoor_minimap_drawn.gif)
 <!-- GIF EMBEDS END -->
 
-## 📖 Citation
+## Citation
 
 If you use this repository for your research or wish to refer to our contributions, please cite the following paper:
 
@@ -30,5 +33,6 @@ If you use this repository for your research or wish to refer to our contributio
   journal={arXiv preprint arXiv:2503.18282},
   year={2025}
 }
+```
 
 
