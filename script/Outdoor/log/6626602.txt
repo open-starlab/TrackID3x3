@@ -1,1 +1,0 @@
-python3: can't open file '/work6/k_yamada/3x3_GSR/Outdoor_codes/Outdoor_codes/segment_by_dectron2.py': [Errno 2] No such file or directory
