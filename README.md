@@ -16,3 +16,5 @@ This task is the Game State Reconstruction task for fixed camera video.
 ![Indoor_minimap_drawn](videos/gif/Indoor_minimap_drawn.gif)
 ![Outdoor](videos/gif/Outdoor_minimap_drawn.gif)
 <!-- GIF EMBEDS END -->
+
+BibTeX: [arXiv BibTeX](https://arxiv.org/bibtex/2503.18282)
