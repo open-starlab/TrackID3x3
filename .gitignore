@@ -1,6 +1,7 @@
 *.sh
 *log/
 *.md
+!README.md
 convert_MOT.ipynb
 count_seconds.ipynb
 modify.ipynb
