@@ -1,0 +1,10 @@
+183 (Game start),"1: 10, 3: 5, 4: 1, 5: 3, 6: 4, 10: 12","Offense: 1, 6, 10; Defense: 3, 4, 5"
+751 (FG success),,
+1008 (Just before the referee releases the ball),,"Offense: 1, 6, 10; Defense: 3, 4, 5"
+3932 (Timer stop),,
+4280 (Resume),,"Offense: 3, 4, 5; Defense: 1, 6, 10"
+4445 (Out of bounds),,
+4720 (Resume),,"Offense: 3, 4, 5; Defense: 1, 6, 10"
+6818 (Violation),,
+7115 (Resume),,"Offense: 1, 6, 10; Defense: 3, 4, 5"
+10665 (Game end),,
