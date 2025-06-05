@@ -25,9 +25,28 @@ This task is the Game State Reconstruction task for fixed camera videos. The cou
 
 If you use this repository for your research or wish to refer to our contributions, please cite the following paper:
 
+[**Analyzing coordinated group behavior through role-sharing: a pilot study in female 3-on-3 basketball with practical application**](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1513982/full)
+
+[**Enhanced Multi-Object Tracking Using Pose-based Virtual Markers in 3x3 Basketball**](https://arxiv.org/abs/2412.06258)
+
 [**TrackID3x3: A Dataset for 3x3 Basketball Player Tracking and Identification**](https://arxiv.org/abs/2503.18282)
 
 ```bibtex
+@article{ichikawa2024analyzing,
+  title={Analyzing coordinated group behavior through role-sharing: A pilot study in female 3-on-3 basketball with practical application},
+  author={Ichikawa, Jun and Yamada, Masatoshi and Fujii, Keisuke},
+  journal={Frontiers in Sports and Active Living},
+  volume={7},
+  pages={1513982},
+  year={2024},
+  publisher={Frontiers}
+}
+@article{yin2024enhanced,
+  title={Enhanced Multi-Object Tracking Using Pose-based Virtual Markers in 3x3 Basketball},
+  author={Yin, Li and Yeung, Calvin and Hu, Qingrui and Ichikawa, Jun and Azechi, Hirotsugu and Takahashi, Susumu and Fujii, Keisuke},
+  journal={arXiv preprint arXiv:2412.06258},
+  year={2024}
+}
 @article{yamada2025trackid3x3,
   title={TrackID3x3: A Dataset for 3x3 Basketball Player Tracking and Identification},
   author={Yamada, Kazuhiro and Yin, Li and Hu, Qingrui and Ding, Ning and Iwashita, Shunsuke and Ichikawa, Jun and Kotani, Kiwamu and Yeung, Calvin and Fujii, Keisuke},
