@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2025-present Kazuhiro Yamada, Keisuke Fujii, OpenSTARLab
+   Copyright 2025 Kazuhiro Yamada, Keisuke Fujii, OpenSTARLab
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -205,7 +205,8 @@
 This repository includes code from two external sources:
 
 - **BoT‑SORT** by Nir Aharon. Licensed under the MIT License.  
-- **jersey‑number‑pipeline** by mkoshkina. Licensed under the Creative Commons Public License ("CCPL"). 
+- **jersey‑number‑pipeline** by mkoshkina. Licensed under the Creative Commons Public License ("CCPL").
+- **CAMELTrack** by VlSomers. Licensed under the Apache License Version 2.0.  
 
 Users should carefully review both licenses to ensure compliance when using this code.
 
@@ -213,5 +214,6 @@ Users should carefully review both licenses to ensure compliance when using this
 |--------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------|
 | BoT‑SORT                 | [NirAharon/BoT‑SORT](https://github.com/NirAharon/BoT-SORT)                                | MIT License                                                  | Nir Aharon |
 | jersey‑number‑pipeline   | [mkoshkina/jersey‑number‑pipeline](https://github.com/mkoshkina/jersey-number-pipeline)   | Creative Commons Public License ("CCPL")                     | mkoshkina  |
+| CAMELTrack | [TrackingLaboratory/CAMELTrack](https://github.com/TrackingLaboratory/CAMELTrack) | Apache License, Version 2.0 (January 2004) — [http://www.apache.org/licenses/](http://www.apache.org/licenses/) | TrackingLaboratory (VlSomers)|
 
 

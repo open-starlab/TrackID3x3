@@ -2,7 +2,7 @@ import os
 import cv2
 from collections import defaultdict
 
-txt_dir = "../../BoT-SORT_outputs/Outdoor/filtered/"
+txt_dir = "../../output/CAMELTrack_outputs/Outdoor/filtered_MOT/"
 video_dir = "../../videos/Outdoor/top/split/"
 output_dir = "../../jersey-number-pipeline/data/Outdoor/test/images/"
 os.makedirs(output_dir, exist_ok=True)
