@@ -648,7 +648,7 @@ if __name__ == '__main__':
         elif args.dataset == 'Outdoor':
             actions = {
                 "soccer_ball_filter": False,
-                "feat": False,
+                "feat": True,
                 "filter": True,
                 "legible": True,
                 "legible_eval": False,

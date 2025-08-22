@@ -3,9 +3,9 @@ import numpy as np
 import cv2
 
 # 整理後の画像が保存されているベースディレクトリ（各動画フォルダ内に各トラックフォルダがある）
-base_img_dir = "../../jersey-number-pipeline/out/OutdoorResults/crops/imgs"
+base_img_dir = "../../output/jersey-number-pipeline_outputs/OutdoorResults/ID_merging/crops/imgs/"
 # ヒストグラムの保存先ディレクトリ
-output_dir = "../../color_histograms/Outdoor"
+output_dir = "../../color_histograms/Outdoor/ID_merging/"
 os.makedirs(output_dir, exist_ok=True)
 
 # 各動画フォルダに対して処理
