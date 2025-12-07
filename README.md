@@ -115,4 +115,36 @@ If you use this repository for your research or wish to refer to our contributio
 }
 ```
 
+## License
+
+### Code
+
+- Original TrackID3x3 code (all files outside the `BoT-SORT/`,
+  `CAMELTrack/`, and `jersey-number-pipeline/` subdirectories) is
+  licensed under the **Apache License, Version 2.0**.
+  See [`LICENSE.md`](./LICENSE.md) for details.
+
+- `BoT-SORT/` is based on the BoT-SORT repository and is distributed
+  under the **MIT License**. See `BoT-SORT/LICENSE`.
+
+- `CAMELTrack/` is based on the CAMELTrack repository and is distributed
+  under the **Apache License 2.0**. See `CAMELTrack/LICENSE`.
+
+- `jersey-number-pipeline/` is based on the jersey-number-pipeline
+  repository and is distributed under the
+  **Creative Commons Attribution-NonCommercial 3.0 Unported License**
+  (CC BY-NC 3.0). See `jersey-number-pipeline/LICENSE` and the
+  [original repository](https://github.com/mkoshkina/jersey-number-pipeline).
+
+Please ensure that your use of this repository complies with these
+third-party license terms (in particular, `jersey-number-pipeline/`
+is restricted to non-commercial use).
+
+## Dataset 
+Unless otherwise stated, the TrackID3x3 dataset
+(all videos, annotations and intermediate files provided via the
+Google Drive link above) is licensed under the
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+
 
